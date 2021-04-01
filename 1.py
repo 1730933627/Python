@@ -6,12 +6,11 @@ class New:
         from PIL import Image, ImageTk  
         root = tkinter.Tk()
         root.title('')
-        root.iconbitmap('.\Img\233.ico')
         canvas = tkinter.Canvas(root,  
             width = 1920,
             height = 1080,
             bg = 'white')  
-        image = Image.open(".\Img\1.jpg")  
+        image = Image.open(".Img\1.jpg")  
         im = ImageTk.PhotoImage(image)
         
         canvas.create_image(960,540,image = im)
@@ -21,7 +20,7 @@ class New:
         canvas.pack() 
         root.mainloop()  
     def jiujiu():                   #九九乘法表
-        for a in range(0,10):
+        for a in range(1,10):
             for b in range(1,a+1):
                 print('{}*{}={}\t'.format(b,a,a*b),end='')
             print()
