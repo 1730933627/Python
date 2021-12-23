@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cc2e8e93-6d7a-4dd1-a914-8becdd96e2c0" name="默认更改列表" comment="Python">
-      <change afterPath="$PROJECT_DIR$/Django/newsite/newsite/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/识别身份证/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/Fashion分类/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/Fashion分类/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/five.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/four.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/人脸识别.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/卷积神经网络/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/卷积神经网络/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/手写字母识别/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/手写字母识别/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/手写字母识别/epic_num_reader.model/keras_metadata.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/手写字母识别/epic_num_reader.model/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/手写字母识别/epic_num_reader.model/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/手写字母识别/epic_num_reader.model/variables/variables.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/手写字母识别/mnist.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/鸢尾花分类/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人工智能/鸢尾花分类/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/爬虫/get_bh3_img.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/one.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/one_r.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TK/TK2.py" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,9 +41,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Python" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,6 +61,14 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -59,17 +91,21 @@
         <option value="$PROJECT_DIR$/Django/newsite/newsite/views.py" />
         <option value="$PROJECT_DIR$/Django/newsite/newsite/urls.py" />
         <option value="$PROJECT_DIR$/识别身份证/demo.py" />
+        <option value="$PROJECT_DIR$/人工智能/print_version.py" />
+        <option value="$PROJECT_DIR$/人工智能/one.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="40" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectId" id="1zVEWyGn8qZTLujPQANk3DpVwxk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="更新" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="2" id="添加" />
   </component>
   <component name="ProjectView">
@@ -77,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,43 +124,37 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="识别身份证" type="462c0819:PsiDirectoryNode" />
+              <item name="人工智能" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\YanLinn\文档\My Project\Python\人工智能\鸢尾花分类" />
+      <recent name="F:\YanLinn\文档\My Project\Python\人工智能\New\卷积" />
       <recent name="F:\Yan_Linn\文档\MyProject\Python\ID-INVADED-WINDOWED-master\Python\examples" />
       <recent name="F:\Yan_Linn\文档\MyProject\Python\ID-INVADED-WINDOWED-master\Python" />
       <recent name="F:\Yan_Linn\文档\MyProject\Python\ID-INVADED-WINDOWED-master\Python\examples\assets" />
-      <recent name="F:\Yan_Linn\文档\MyProject\Python\爬虫" />
-      <recent name="F:\Yan_Linn\文档\MyProject\Python\多线程" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.demo">
-    <configuration name="dancywindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.five">
+    <configuration name="人脸识别" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ID-INVADED-WINDOWED-master/Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人工智能" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:\Yan_Linn\文档\MyProject\Python\ID-INVADED-WINDOWED-master\Python\examples\dancywindow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人工智能/人脸识别.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/识别身份证" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人工智能/Fashion分类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/识别身份证/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人工智能/Fashion分类/Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random_windows" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,11 +204,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ID-INVADED-WINDOWED-master/Python/examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人工智能/卷积神经网络" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ID-INVADED-WINDOWED-master/Python/examples/random_windows.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人工智能/卷积神经网络/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人工智能/鸢尾花分类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人工智能/鸢尾花分类/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="five" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人工智能" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人工智能/five.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,12 +261,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python.dancywindow" />
-        <item itemvalue="Python.random_windows" />
+        <item itemvalue="Python.five" />
+        <item itemvalue="Python.Main (3)" />
+        <item itemvalue="Python.人脸识别" />
+        <item itemvalue="Python.Main (2)" />
+        <item itemvalue="Python.Main (1)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -324,8 +400,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989605" visible="true" weight="0.25692964" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989605" visible="true" weight="0.30170575" />
       <window_info id="Structure" order="1" sideWeight="0.5010395" side_tool="true" weight="0.20628998" />
       <window_info id="Favorites" order="2" sideWeight="0.5010395" side_tool="true" weight="0.20628998" />
       <window_info anchor="bottom" id="调试" order="0" />
@@ -339,12 +416,12 @@
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="SVN Repositories" order="9" show_stripe_button="false" weight="0.32952183" />
       <window_info active="true" anchor="bottom" id="GitHub Pull Requests" order="10" weight="0.32952183" />
+      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="11" type="SLIDING" weight="0.32952183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="TODO" order="3" sideWeight="0.5007752" side_tool="true" weight="0.26865673" />
-      <window_info anchor="right" id="Run" internal_type="SLIDING" order="4" type="SLIDING" weight="0.32942432" />
-      <window_info anchor="right" x="774" y="135" width="867" height="740" id="Python Console" internal_type="SLIDING" order="5" sideWeight="0.4992248" type="WINDOWED" weight="0.45309168" />
+      <window_info anchor="right" x="774" y="135" width="867" height="740" id="Python Console" internal_type="SLIDING" order="4" sideWeight="0.4992248" type="WINDOWED" weight="0.45309168" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,22 +429,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -386,8 +448,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
@@ -398,13 +462,7 @@
     <entry file="file://$PROJECT_DIR$/Img/1.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/4.py" />
     <entry file="file://$PROJECT_DIR$/self.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -412,9 +470,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Img/233.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Img/233.ico" />
     <entry file="file://$PROJECT_DIR$/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -424,13 +480,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PyGame/pg_2.pyw" />
     <entry file="file://$PROJECT_DIR$/sql.py" />
-    <entry file="file://C:/Software/Python/Lib/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="853" column="8" selection-start-line="853" selection-start-column="8" selection-end-line="853" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Software/Python/Lib/threading.py" />
     <entry file="file://$PROJECT_DIR$/PyGame/pg_1.pyw" />
     <entry file="file://$PROJECT_DIR$/验证码.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -472,9 +522,6 @@
     <entry file="file://$PROJECT_DIR$/2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/WiFi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/get_Bili.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -504,17 +551,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TK/TK2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="37" column="91" selection-start-line="37" selection-start-column="91" selection-end-line="37" selection-end-column="91" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <element signature="e#200#204#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TK/TK2.py" />
     <entry file="file://$PROJECT_DIR$/TK/Tk.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -536,13 +573,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ID-INVADED-WINDOWED-master/demo/cxk.gif" />
-    <entry file="file://C:/Software/Python/Lib/site-packages/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Software/Python/Lib/site-packages/cv2/__init__.py" />
     <entry file="file://$PROJECT_DIR$/ID-INVADED-WINDOWED-master/Python/examples/random_windows.py" />
     <entry file="file://$PROJECT_DIR$/ID-INVADED-WINDOWED-master/Python/examples/dancywindow.py" />
     <entry file="file://$PROJECT_DIR$/爬虫/爬取B站弹幕.py">
@@ -601,13 +632,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/识别身份证/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/识别身份证/__init__.py" />
     <entry file="file://$PROJECT_DIR$/识别身份证/demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="10" lean-forward="true" selection-start-column="10" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WiFi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能/print_version.py" />
+    <entry file="file://$PROJECT_DIR$/人工智能/one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
