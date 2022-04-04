@@ -1,10 +1,11 @@
 import bilibili_api as bl #Version - 2.1.4
-import json,os,flask
+import json,flask
 from flask import request,render_template,send_from_directory
 from flask_cors import CORS,cross_origin
 from pymysql import NULL
 from LinkData import *
 from Process import *
+from Get_music import *
 
 server = flask.Flask(__name__)
 CORS(server, resources={r'/*': {"origins": "*"}}, supports_credentials=True)
@@ -12,6 +13,15 @@ CORS(server, resources={r'/*': {"origins": "*"}}, supports_credentials=True)
 @server.route('/', methods=['get'])
 def index():
     return render_template('index.html')
+
+@server.route('/music',methods=['get'])
+def music_info():
+    status = request.values.get("status")
+    if status:
+        write_info(2984712321)
+        return read_json('music_list')
+    else:
+        return read_json('music_list')
     
 @server.route('/getvideoinfo', methods=['post'])
 def getvideoinfo():

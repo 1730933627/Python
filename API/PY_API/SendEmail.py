@@ -70,10 +70,14 @@ class send_email:
         msg = MIMEText(html_body, _subtype='html', _charset='utf-8')
         msg['From'] = send_email()._format_addr('Blog_Mail <%s>' % self.from_addr)
         msg['To'] = send_email()._format_addr('管理员 <%s>' % self.to_addr)
-        msg['Subject'] = Header('来自Blog的信息~', 'utf-8').encode()
+        msg['Subject'] = Header('来自{}的信息~'.format(par[2]), 'utf-8').encode()
             
         server = smtplib.SMTP_SSL(self.smtp_server, 465)
         server.set_debuglevel(1)
-        server.login(self.from_addr, self.password)
-        server.sendmail(self.from_addr, [self.to_addr], msg.as_string())
+        try:
+            server.login(self.from_addr, self.password)
+            server.sendmail(self.from_addr, [self.to_addr], msg.as_string())
+        except:
+            print("邮件发送失败!")
+            return 404
         server.quit()

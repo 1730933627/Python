@@ -1,3 +1,4 @@
+import os
 import MySQLdb
 import MySQLdb.cursors
 import time,datetime
