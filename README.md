@@ -6,14 +6,14 @@
 
 本仓库包含以下内容：
 
-1. 多线程-Threading[Threading](多线程)。
-2. 基于Requests的爬虫[Requests](爬虫)。
-3. 基于TensorFlow的人工智能[TensorFlow](人工智能)。
-4. 基于Falsk的API[Falsk](API)。
-5. 基于OpenCV的计算机视觉处理[OpenCV](OpenCV)。
-6. 基于Django的网站和接口实现[Django](Django)
-7. 基于PIL的图像转字符画的实现[PIL](Char)
-8. 基于pygame的游戏设计[Pygame](pyGame)
+1. 多线程-[Threading](多线程)。
+2. 基于[Requests](爬虫)的爬虫。
+3. 基于的TensorFlow的[人工智能](人工智能)。
+4. 基于Falsk的[API](API)。
+5. 基于[OpenCV](OpenCV)的计算机视觉处理。
+6. 基于Django的网站和接口实现[接口实现](Django)。
+7. 基于PIL的[图像转字符画](Char)的实现。
+8. 基于pygame的[游戏设计](pyGame)。
 
 ## 内容列表
 
