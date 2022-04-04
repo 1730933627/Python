@@ -1,6 +1,6 @@
 # Readme
 
-[![standard-readme compliant](https://img.shields.io/badge/a%20python%20project-start-brightgreen.svg?style=flat-square)](https://github.com/1730933627/Web)
+[![standard-readme compliant](https://img.shields.io/badge/a%20python%20project-start-brightgreen.svg?style=flat-square)](https://github.com/1730933627/Python)
 
 这是一个基于Python的项目文件夹
 
